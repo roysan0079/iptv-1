@@ -13,8 +13,41 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asset.brandfetch.io/idEdVdcbxd/idchi5xM0w.png" group-title="TV Shows" , America's Funniest Home Videos
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports" , Redbull TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Red_Bull_TV.svg/revision/latest?cb=20180423100712" group-title="Sports" , Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/KBS_World_2009.svg/revision/latest?cb=20230831105001" group-title="Korean" , KBS World
-https://ucdn.mediaquest.com.ph/bpk-tv/kbsworld/default/index.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/GMAPinoyTVvector05.png/revision/latest?cb=20200901093722" group-title="TV Shows" , GMA Pinoy TV
+https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/JTV2015.svg/revision/latest/scale-to-width-down/1000?cb=20160824071938" group-title="TV Shows" , Jeepney TV
+https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Animax_%28blue%29.svg/revision/latest?cb=20230918135953" group-title="Cartoons/Anime" , Animax
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_animax_sd_new/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/DepEd_TV_logo_%282020%29.jpg/revision/latest?cb=20201125234029" group-title="TV Shows" , DepEd TV
+https://ucdn.mediaquest.com.ph/bpk-tv/depedch_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/42/CinemaOne.svg/revision/latest?cb=20241019090746" group-title="Movies" , Cinema One
+https://abslive.akamaized.net/dash/live/2027618/c1ph/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Cinemax_2016.svg/revision/latest?cb=20171203110447" group-title="Movies" , Cinemax
+http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoD7Jkv0l3sE1jz6821dGRWytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1349825919509&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LAO494UQ9QXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/GMA_News_TV_2024.png/revision/latest?cb=20240917045839" group-title="News" , GMA News TV
+https://abslive.akamaized.net/dash/live/2099522/gnews3/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/DreamWorks_Animation_2016.svg/revision/latest?cb=20201205013126" group-title="Movies" , Dreamworks
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworktag/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/TV5_%28Philippines%29_%282026%29.svg/revision/latest?cb=20260518022407" group-title="TV Shows" , TV5
+https://ucdn.mediaquest.com.ph/bpk-tv/tv5_hd/default1/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/TvN_Movies_Logo.svg/revision/latest/scale-to-width-down/1000?cb=20240618084524" group-title="Movies" , TVN Movies
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Nickelodeon_%282009%29.svg/revision/latest?cb=20180306141612" group-title="Cartoons/Anime" , Nickelodeon
+https://ucdn.mediaquest.com.ph/bpk-tv/dr_nickelodeon/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Category" , Sample
+link
