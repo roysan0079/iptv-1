@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest?cb=20250414080547g" group-title="Sports" , NBA TV
-http://212.102.60.231/NBA_TV/index.m3u8
+http://speedmel.net:80/T3ZT2SM3960ZY8V/umae6FQlwQ/1380370
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Bloomberg_2015.svg/revision/latest?cb=20171125073306" group-title="News" , Bloomberg
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
@@ -15,6 +15,3 @@ https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia803107.us.archive.org/22/items/RedBullTVLogo/Red-Bull-TV-Logo.png" group-title="Sports" , Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/KBS_World_2009.svg/revision/latest?cb=20230831105001" group-title="Korean" , KBS World
-https://stream8.cinerama.uz/1448/playlist.m3u8
