@@ -67,5 +67,8 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_pbarush_hd1/default/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/TVNPremium.png/revision/latest/scale-to-width-down/1000?cb=20190105145236" group-title="Korean" , tvN Premium
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest?cb=20210519155203" group-title="TV Shows" , Discovery Channel
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Category" , Sample
 link
