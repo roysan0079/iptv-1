@@ -1,44 +1,18 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="Sports" , NBA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest?cb=20250414080547g" group-title="Sports" , NBA TV
 http://212.102.60.231/NBA_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="30" tvg-name="30" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" group-title="News" , Bloomberg
+#EXTINF:-1 tvg-id="30" tvg-name="30" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Bloomberg_2015.svg/revision/latest?cb=20171125073306" group-title="News" , Bloomberg
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 
-#EXTINF:-1 tvg-id="Arirang.ph" tvg-name="Arirang.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/1200px-Arirang_logo.png" group-title="Korean" , Arirang
+#EXTINF:-1 tvg-id="Arirang.ph" tvg-name="Arirang.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Arirang_TV_Logo.svg/revision/latest?cb=20210828042411" group-title="Korean" , Arirang
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bbcworld.News.ph" tvg-name="Bbcworld.News.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/2560px-BBC_World_News_2022.svg.png" group-title="News" , BBC World News
+#EXTINF:-1 tvg-id="Bbcworld.News.ph" tvg-name="Bbcworld.News.ph" tvg-logo="https://dn721901.ca.archive.org/0/items/bbc-news/BBC%20News.png" group-title="News" , BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asset.brandfetch.io/idEdVdcbxd/idchi5xM0w.png" group-title="TV Shows" , America's Funniest Home Videos
 https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://provider-static.plex.tv/epg/images/thumbnails/24hrfreemovies_artwork_vertical.jpg" group-title="Movies" , 24 Hour Free Movies
-https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia803107.us.archive.org/22/items/RedBullTVLogo/Red-Bull-TV-Logo.png" group-title="Sports" , Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia803107.us.archive.org/22/items/RedBullTVLogo/Red-Bull-TV-Logo.png" group-title="Movies" , 3rsTV
-https://3rstv.elektriko4444.workers.dev/peanut.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia803107.us.archive.org/22/items/RedBullTVLogo/Red-Bull-TV-Logo.png" group-title="Movies" , 3rsSinePinoy
-https://3rssinepinoy2.elektriko4444.workers.dev/mochi.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia803107.us.archive.org/22/items/RedBullTVLogo/Red-Bull-TV-Logo.png" group-title="Movies" , 3rsMovieBox
-https://3rsmoviebox.elektriko4444.workers.dev/moon.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia803107.us.archive.org/22/items/RedBullTVLogo/Red-Bull-TV-Logo.png" group-title="Movies" , 3rsCartoonMovies
-https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia803107.us.archive.org/22/items/RedBullTVLogo/Red-Bull-TV-Logo.png" group-title="Movies" , Cinemax
-https://streamer1.nexgen.bz/CINEMAX/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia803107.us.archive.org/22/items/RedBullTVLogo/Red-Bull-TV-Logo.png" group-title="Movies" , Cartoon
-https://tx2.nexgen.bz:4000/CARTOON/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia803107.us.archive.org/22/items/RedBullTVLogo/Red-Bull-TV-Logo.png" group-title="Sports" , ESPN
-https://tx2.nexgen.bz:4000/ESPN/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ia803107.us.archive.org/22/items/RedBullTVLogo/Red-Bull-TV-Logo.png" group-title="Sports" , History
-https://tx2.nexgen.bz:4000/HISTORY/index.m3u8
