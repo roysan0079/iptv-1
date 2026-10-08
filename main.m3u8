@@ -1,5 +1,4 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" 
-group-title="Sports" , NBA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="Sports" , NBA TV
 http://212.102.60.231/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="30" tvg-name="30" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png" 
