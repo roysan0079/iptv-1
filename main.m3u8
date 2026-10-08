@@ -43,7 +43,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworktag/default/index.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/TV5_%28Philippines%29_%282026%29.svg/revision/latest?cb=20260518022407" group-title="TV Shows" , TV5
 https://ucdn.mediaquest.com.ph/bpk-tv/tv5_hd/default1/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/TvN_Movies_Logo.svg/revision/latest/scale-to-width-down/1000?cb=20240618084524" group-title="Movies" , TVN Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/TvN_Movies_Logo.svg/revision/latest/scale-to-width-down/1000?cb=20240618084524" group-title="Movies" , tvN Movies
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Nickelodeon_%282009%29.svg/revision/latest?cb=20180306141612" group-title="Cartoons/Anime" , Nickelodeon
@@ -63,6 +63,9 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_historyhd/default/index.
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/PBA_Rush_logo.png/revision/latest?cb=20161115101642" group-title="Sports" , PBA Rush
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_pbarush_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/TVNPremium.png/revision/latest/scale-to-width-down/1000?cb=20190105145236" group-title="Korean" , tvN Premium
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Category" , Sample
 link
